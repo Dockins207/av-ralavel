@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
 
     <!--====== Style CSS ======-->
-    <link rel="stylesheet" href="../../css/style.css" />
+    <link rel="stylesheet" href="../../css/style.cs" />
 
     <!-- ====== Toastr CSS ====== -->
     <link rel="stylesheet" href="../../css/toastr.min.css" />
